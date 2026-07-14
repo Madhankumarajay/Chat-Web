@@ -18,6 +18,9 @@ npm install
 npm start
 Environment Variables
 Copy .env.example to .env in the backend folder and update the values as needed:
-PORT=5000
-CLIENT_ORIGIN=http://localhost:3000
-DB_PATH=./chat.db
+
+
+If U want to test Here is the link:https://chat-2oxv093u0-madhankumarajays-projects.vercel.app/
+link2:https://chat-web-sand-mu.vercel.app/
+
+Note: some technical issue occured while deploy in Render please wait....
